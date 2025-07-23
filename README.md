@@ -1,8 +1,14 @@
-🧭 AIM: To study and implement Operators in C++
+# 🧭 AIM: 
 
-🖥️ SOFTWARE REQUIRED: Visual Studio
+To study and implement Operators in C++
 
-📚 THEORY: An operator is a symbol that tells the compiler to perform specific mathematical or logical manipulations. C++ is rich in built-in operators and provides the following types:
+# 🖥️ SOFTWARE REQUIRED: 
+
+Visual Studio
+
+# 📚 THEORY: 
+
+An operator is a symbol that tells the compiler to perform specific mathematical or logical manipulations. C++ is rich in built-in operators and provides the following types:
 
 ARITHMETIC OPERATORS: These are basic operators used for arithmetic operations between operands. They include:
 
@@ -54,12 +60,22 @@ ASSIGNMENT OPERATORS: These assign values to variables. The basic assignment ope
 
 +=, -=, *=, /=, %=, etc., which combine an arithmetic operation with assignment
 
-🧪 IMPLEMENTATION: In this practical, I applied different types of operators in the following scenarios:
+# 🧪 IMPLEMENTATION: 
 
-🔍 Positive or Negative Number Check: Comparison operators were used to evaluate whether a number entered by the user is negative or positive.
+In this practical, I applied different types of operators in the following scenarios:
 
-📚 Student Grade Determination: A combination of comparison and logical operators was used to calculate the average of marks in five subjects and assign a grade accordingly.
+# 🔍 Positive or Negative Number Check: 
 
-🧭 Quadrant Determination: Coordinates provided by the user were processed using comparison and logical operators to determine the quadrant in a Cartesian plane where the point lies.
+Comparison operators were used to evaluate whether a number entered by the user is negative or positive.
 
-✅ CONCLUSION: I explored various types of operators in C++ and understood how each operator contributes to decision-making, computation, and program control.
+# 📚 Student Grade Determination: 
+
+A combination of comparison and logical operators was used to calculate the average of marks in five subjects and assign a grade accordingly.
+
+# 🧭 Quadrant Determination: 
+
+Coordinates provided by the user were processed using comparison and logical operators to determine the quadrant in a Cartesian plane where the point lies.
+
+# ✅ CONCLUSION: 
+
+I explored various types of operators in C++ and understood how each operator contributes to decision-making, computation, and program control.
